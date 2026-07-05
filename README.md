@@ -13,6 +13,7 @@ Paralelamente, ejerzo la docencia en el **Instituto Superior Tecnológico Empres
 *   Redes de Datos I
 *   Redes de Datos II
 *   Sistemas Operativos I
+
 Mi rol abarca desde el diseño de temarios y casos prácticos hasta la evaluación de conocimientos, aportando mi experiencia de campo al proceso educativo.
 
 ### 3. Trayectoria en Infraestructura IT (+25 años)
